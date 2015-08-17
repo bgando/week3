@@ -11,7 +11,7 @@ console.log('I expect myFirstVariable to be 8',myFirstVariable);
 
 // Note that there are explanations at the bottom of this document for many of these answers. Definitely try to reason through this with a partner before looking through the explanations though!
 
-// Alrigt, now it's your turn!
+// Alright, now it's your turn!
 // I'll get you started with another obvious example, then I'll start leaving you more on your own:
 // 1. What is the value of mySecondVar before we declare it? Can you explain why to your partner?
 var mySeondVar;
